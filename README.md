@@ -1,2 +1,5 @@
-# helm
-Package manager for Kubernetes
+# add Nginx Repository
+
+```
+helm repo add ingress-nginx https://kubernetes.github.io/ingress-nginx
+```
